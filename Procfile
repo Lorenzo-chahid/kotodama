@@ -1,0 +1,1 @@
+web: gunicorn kotodama.wsgi --log-file -
